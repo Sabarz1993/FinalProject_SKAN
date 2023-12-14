@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.Footer{
+  width: 100%;
+  margin-top: 118px;
+  background: #029491;
+}
+@media screen and (max-width:768px) {
+  .Footer{
+    margin-top: 0px;
+  }
+}
